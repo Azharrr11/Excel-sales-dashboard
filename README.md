@@ -33,7 +33,7 @@ This is a basic interactive sales performance dashboard created using **Microsof
 
 ## 📷 Dashboard Preview
 
-![Dashboard Screenshot](screenshot.png)
+![Dashboard Screenshot](Screenshot.png)
 
 ---
 
